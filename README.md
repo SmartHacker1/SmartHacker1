@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmartHacker1
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning class X
+- 🌱 I’m currently learning class 
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me ........
 
